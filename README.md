@@ -34,7 +34,12 @@ Algum vendedor também é fornecedor?
 Relação de produtos fornecedores e estoques;
 Relação de nomes dos fornecedores e nomes dos produtos;
 
-Configuração utilizada
+Explicação sobre os arquivos:
+
+O arquivo Diagrama Ecommerce V1 é o ER do arquivo script sql v1. Já o Diagrama Ecommerce V2 é o refinamento pedido.
+
+Configuração utilizada:
+
 Imagem docker Mysql lastest
 DBeaver Comunity
 Docker Desktop
