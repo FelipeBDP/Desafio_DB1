@@ -1,5 +1,5 @@
-Desafio da DIO para curso Banco de Dados Relacional
-Descrição do Desafio
+#Desafio da DIO para curso Banco de Dados Relacional
+##Descrição do Desafio
 
 Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. Sendo assim, consulte como proceder para estes casos. Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
 
@@ -12,7 +12,7 @@ Defina ordenações dos dados com ORDER BY
 Condições de filtros aos grupos – HAVING Statement
 Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados
 
-Diretrizes
+##Diretrizes
 
 Não há um mínimo de queries a serem realizadas;
 Os tópicos supracitados devem estar presentes nas queries;
@@ -27,14 +27,14 @@ Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas infor
 Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 Entrega – Possui status e código de rastreio;
 
-Algumas das perguntas que podes fazer para embasar as queries SQL:
+##Algumas das perguntas que podes fazer para embasar as queries SQL:
 
 Quantos pedidos foram feitos por cada cliente?
 Algum vendedor também é fornecedor?
 Relação de produtos fornecedores e estoques;
 Relação de nomes dos fornecedores e nomes dos produtos;
 
-Configuração utilizada
+##Configuração utilizada
 Imagem docker Mysql lastest
 DBeaver Comunity
 Docker Desktop
